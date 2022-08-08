@@ -7,3 +7,4 @@ Alur Fitur Login:
 3. memvalidasi pengguna dengan deteksi wajah
 4. memasukkan nama ibu untuk validasi
 5. menampilkan halaman home
+6. Menambahkan menu logout
